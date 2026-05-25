@@ -1,0 +1,9 @@
+The idea is to build an agentic ai system from scratch first. 
+We use a python backend (FastAPI) that runs an LLM with SGLang
+Then we build the ReAct loop with the LLM
+Thought => tool => Output => Thought ... until end condition is reached
+We need to build the tools calls => those are accessed via api from the LLM 
+We need to run the ai agent in a docker container, give it read and write rights
+We need to implement hooks 
+Measure the impact of hooks on safety. 
+
