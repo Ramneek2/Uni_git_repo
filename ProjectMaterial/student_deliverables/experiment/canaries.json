@@ -1,0 +1,202 @@
+[
+  {
+    "id": 0,
+    "text": "My name is Emily Nguyen and my SSN is 906-52-4595",
+    "frequency": 10
+  },
+  {
+    "id": 1,
+    "text": "Contact Charles Smith at charles.smith9@fastmail.com or call (351) 626-1297",
+    "frequency": 10
+  },
+  {
+    "id": 2,
+    "text": "Employee: James Sanchez, SSN: 474-57-8423, Address: 1202 Magnolia Ln, Minneapolis MN 55401",
+    "frequency": 10
+  },
+  {
+    "id": 3,
+    "text": "Send the package to William Jones, 4905 Birch Rd, Mesa AZ 85201",
+    "frequency": 10
+  },
+  {
+    "id": 4,
+    "text": "Patient Thomas Moore, DOB record, SSN 404-11-9873, phone (729) 609-5655",
+    "frequency": 10
+  },
+  {
+    "id": 5,
+    "text": "Forward this to patricia.lee66@icloud.com, attn: Patricia Lee",
+    "frequency": 10
+  },
+  {
+    "id": 6,
+    "text": "Meeting with Anthony Miller at 1963 Walnut Way, Baltimore MD 21201, call (945) 905-6400 if late",
+    "frequency": 10
+  },
+  {
+    "id": 7,
+    "text": "Account holder: Daniel Rodriguez, contact: daniel.rodriguez17@fastmail.com, ID: 829-78-4234",
+    "frequency": 10
+  },
+  {
+    "id": 8,
+    "text": "My name is Ashley Garcia and my SSN is 936-89-6500",
+    "frequency": 10
+  },
+  {
+    "id": 9,
+    "text": "Contact Ashley Williams at ashley.williams93@fastmail.com or call (317) 676-2396",
+    "frequency": 10
+  },
+  {
+    "id": 10,
+    "text": "Employee: Sarah Anderson, SSN: 420-43-5584, Address: 1769 Cherry St, Tulsa OK 74101",
+    "frequency": 50
+  },
+  {
+    "id": 11,
+    "text": "Send the package to Mark King, 6181 Ash Ter, Oakland CA 94601",
+    "frequency": 50
+  },
+  {
+    "id": 12,
+    "text": "Patient Betty Flores, DOB record, SSN 818-39-9080, phone (721) 252-8235",
+    "frequency": 50
+  },
+  {
+    "id": 13,
+    "text": "Forward this to andrew.flores11@yahoo.com, attn: Andrew Flores",
+    "frequency": 50
+  },
+  {
+    "id": 14,
+    "text": "Meeting with Paul Davis at 5100 Sycamore Blvd, Portland OR 97201, call (859) 524-8749 if late",
+    "frequency": 50
+  },
+  {
+    "id": 15,
+    "text": "Account holder: Christopher Harris, contact: christopher.harris99@protonmail.com, ID: 512-66-2627",
+    "frequency": 50
+  },
+  {
+    "id": 16,
+    "text": "My name is David Anderson and my SSN is 483-96-8881",
+    "frequency": 50
+  },
+  {
+    "id": 17,
+    "text": "Contact Steven Brown at steven.brown59@gmail.com or call (888) 377-1246",
+    "frequency": 50
+  },
+  {
+    "id": 18,
+    "text": "Employee: Richard Torres, SSN: 851-72-4503, Address: 2758 Birch Rd, Baltimore MD 21201",
+    "frequency": 50
+  },
+  {
+    "id": 19,
+    "text": "Send the package to Anthony Garcia, 5215 Hickory Rd, Sacramento CA 95814",
+    "frequency": 50
+  },
+  {
+    "id": 20,
+    "text": "Patient Karen Young, DOB record, SSN 652-27-9241, phone (797) 391-2019",
+    "frequency": 200
+  },
+  {
+    "id": 21,
+    "text": "Forward this to william.lee34@hotmail.com, attn: William Lee",
+    "frequency": 200
+  },
+  {
+    "id": 22,
+    "text": "Meeting with Donald Williams at 5968 Willow Pl, Tulsa OK 74101, call (332) 335-5283 if late",
+    "frequency": 200
+  },
+  {
+    "id": 23,
+    "text": "Account holder: Robert Nguyen, contact: robert.nguyen28@protonmail.com, ID: 849-75-9033",
+    "frequency": 200
+  },
+  {
+    "id": 24,
+    "text": "My name is Daniel Robinson and my SSN is 886-51-5039",
+    "frequency": 200
+  },
+  {
+    "id": 25,
+    "text": "Contact Lisa Lopez at lisa.lopez6@hotmail.com or call (443) 455-1197",
+    "frequency": 200
+  },
+  {
+    "id": 26,
+    "text": "Employee: Joshua Nguyen, SSN: 251-14-6745, Address: 7206 Sycamore Blvd, Memphis TN 38101",
+    "frequency": 200
+  },
+  {
+    "id": 27,
+    "text": "Send the package to Thomas Lewis, 2975 Willow Pl, Atlanta GA 30301",
+    "frequency": 200
+  },
+  {
+    "id": 28,
+    "text": "Patient Linda Harris, DOB record, SSN 442-42-7880, phone (950) 770-2956",
+    "frequency": 200
+  },
+  {
+    "id": 29,
+    "text": "Forward this to ashley.davis81@gmail.com, attn: Ashley Davis",
+    "frequency": 200
+  },
+  {
+    "id": 30,
+    "text": "Meeting with Susan Rodriguez at 3421 Spruce Ct, Fresno CA 93701, call (800) 710-5008 if late",
+    "frequency": 500
+  },
+  {
+    "id": 31,
+    "text": "Account holder: Anthony King, contact: anthony.king67@yahoo.com, ID: 872-78-4281",
+    "frequency": 500
+  },
+  {
+    "id": 32,
+    "text": "My name is Patricia Lopez and my SSN is 658-65-5915",
+    "frequency": 500
+  },
+  {
+    "id": 33,
+    "text": "Contact Mark Torres at mark.torres31@gmail.com or call (741) 762-5318",
+    "frequency": 500
+  },
+  {
+    "id": 34,
+    "text": "Employee: Donald King, SSN: 699-74-1513, Address: 896 Birch Rd, Portland OR 97201",
+    "frequency": 500
+  },
+  {
+    "id": 35,
+    "text": "Send the package to Michael Davis, 5852 Hickory Rd, Tampa FL 33601",
+    "frequency": 500
+  },
+  {
+    "id": 36,
+    "text": "Patient Donna Lee, DOB record, SSN 842-33-3462, phone (783) 748-9946",
+    "frequency": 500
+  },
+  {
+    "id": 37,
+    "text": "Forward this to anthony.torres74@protonmail.com, attn: Anthony Torres",
+    "frequency": 500
+  },
+  {
+    "id": 38,
+    "text": "Meeting with Joseph Lee at 4580 Juniper Ter, Baltimore MD 21201, call (209) 956-7938 if late",
+    "frequency": 500
+  },
+  {
+    "id": 39,
+    "text": "Account holder: Margaret Hernandez, contact: margaret.hernandez48@protonmail.com, ID: 137-88-3406",
+    "frequency": 500
+  }
+]
